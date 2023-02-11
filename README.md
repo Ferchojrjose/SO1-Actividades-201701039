@@ -1,2 +1,3 @@
-# So1-Actividades-201701039
- Curso de Sistemas Operativos 1
+# Sistemas Operativos 1
+ Este repositorio es para la clase magistral.
+ 
